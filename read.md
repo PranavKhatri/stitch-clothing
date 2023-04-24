@@ -99,3 +99,8 @@ My send request will have [access_token + CRUD operations]. Firebase will then v
 
 
 The initialisepp function creates an app instance for us based on of some tyoe of "config". This configis an object that allows us to attach the firebase app instance that we have online, because right now we have the librray installed , but there no way of us telling firebase , oh this instance that we are using should be referiing to the one that we have created inside of app.
+
+
+Firebase Data Model:
+
+It is comprising of 3 things: Data, Document, Collection
